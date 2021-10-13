@@ -4,6 +4,9 @@
 - [Twitter](https://twitter.com/Memory_before)
 
 ## Overview
+
+JK 文件夹是我最近的照片，而My-First-Dress这个文件夹是我多年前刚刚入坑的时候拍的（很烂）
+
 * [0x01-好看的毛衣](#0x01-好看的毛衣)
 * [0x02-是露脸噢](#0x02-是露脸噢)
 * [0x03-素](#0x03-素)
